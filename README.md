@@ -1,1 +1,1 @@
-# alumni-spotlight
+![Deziree Teague](./assets/deziree.png "Title")
