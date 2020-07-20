@@ -1,4 +1,4 @@
-<div align="center"> 
+<!-- <div align="center">  -->
 
 # Get to know Deziree...
 
@@ -7,4 +7,4 @@
 
 ## Connect with Deziree on LinkedIn, [here](https://www.linkedin.com/in/deziree-teague)
 
-</div>
+<!-- </div> -->
