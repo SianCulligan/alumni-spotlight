@@ -1,10 +1,10 @@
 <!-- <div align="center">  -->
 
-# Get to know Deziree...
+# Get to know Jason...
 
 
-![Deziree Teague](./assets/deziree.png "Deziree Teague")
+![Jason Hiskey](./assets/jasonHiskey.png "Jason Hiskey")
 
-## Connect with Deziree on LinkedIn, [here](https://www.linkedin.com/in/deziree-teague)
+## Connect with Jason on LinkedIn, [here](https://www.linkedin.com/in/jasonhiskey/)
 
 <!-- </div> -->
