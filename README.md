@@ -1,10 +1,10 @@
 <!-- <div align="center">  -->
 
-# Get to know Becca...
+# Get to know Kat...
 
 
-![Becca Lee](./assets/BeccaLee.png "Becca Lee")
+![Kat Cosgrove](./assets/katCosgrove.png "Kat Cosgrove")
 
-## Connect with Becca on LinkedIn, [here](https://www.linkedin.com/in/beccalee123/)
+## Connect with Kat on LinkedIn, [here](https://www.linkedin.com/in/katcosgrove/)
 
 <!-- </div> -->
