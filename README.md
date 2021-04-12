@@ -1,10 +1,10 @@
 <!-- <div align="center">  -->
 
-# Get to know Julie...
+# Get to know Raven...
 
 
-![Julie](./assets/Julie.png "Julie")
+![Raven](./assets/RavenRobertson.png "Raven")
 
-## Connect with Julie on LinkedIn, [here](https://www.linkedin.com/in/julie-erlemeier)
+## Connect with Raven on LinkedIn, [here](https://www.linkedin.com/in/raven-robertson)
 
 <!-- </div> -->
